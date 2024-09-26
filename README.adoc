@@ -1,6 +1,12 @@
-= LugMap
+= Il progetto LUGMap continua… su GitLab 😬 =
+
+== https://gitlab.com/ItalianLinuxSociety/LugMap/ ==
+
+Siamo su GitLab insieme a 25+ altri repository. Ci vediamo di là! Grazie mille :) Segue README originale:
 
 L'ambizione della LugMap è di fornire un comodo strumento per mettere in contatto persone, e realtà, interessate alla diffusione del sistema operativo Linux, quale punta di diamante del Software Libero.
+
+Questa pagina è manutenuta p
 
 == Dove si può consultare?
 La LugMap è storicamente presente a questo indirizzo: http://www.linux.it/LUG
